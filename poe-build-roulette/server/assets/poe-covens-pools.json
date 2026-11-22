@@ -1,0 +1,5685 @@
+{
+  "source": "poe.ninja",
+  "leagues": [
+    "Covens",
+    "SSF Covens"
+  ],
+  "thresholdPercent": 0.3,
+  "capturedAt": "2026-11-21T22:49:39.592Z",
+  "ascendancyTotals": {
+    "Slayer": 16173,
+    "Gladiator": 6592,
+    "Champion": 3290,
+    "Juggernaut": 5256,
+    "Berserker": 3097,
+    "Chieftain": 10301,
+    "Warden": 1187,
+    "Deadeye": 8408,
+    "Pathfinder": 8248,
+    "Assassin": 5942,
+    "Trickster": 1298,
+    "Saboteur": 692,
+    "Inquisitor": 2245,
+    "Hierophant": 12254,
+    "Guardian": 7561,
+    "Occultist": 4011,
+    "Elementalist": 15098,
+    "Necromancer": 16245,
+    "Ascendant": 819,
+    "Reliquarian": 3952,
+    "Luminary": 6577
+  },
+  "classes": {
+    "Duelist": {
+      "total": 26179,
+      "skills": [
+        {
+          "name": "Cyclone of Tumult",
+          "count": 4363,
+          "percent": 16.666,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 4306,
+              "percent": 26.6246
+            },
+            {
+              "name": "Gladiator",
+              "count": 27,
+              "percent": 0.4096
+            },
+            {
+              "name": "Champion",
+              "count": 30,
+              "percent": 0.9119
+            }
+          ]
+        },
+        {
+          "name": "Void Shockwave",
+          "count": 3413,
+          "percent": 13.0372,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 3225,
+              "percent": 19.9406
+            },
+            {
+              "name": "Gladiator",
+              "count": 24,
+              "percent": 0.3641
+            },
+            {
+              "name": "Champion",
+              "count": 164,
+              "percent": 4.9848
+            }
+          ]
+        },
+        {
+          "name": "Elemental Hit",
+          "count": 2869,
+          "percent": 10.9592,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 2849,
+              "percent": 17.6158
+            },
+            {
+              "name": "Gladiator",
+              "count": 16,
+              "percent": 0.2427
+            },
+            {
+              "name": "Champion",
+              "count": 1,
+              "percent": 0.0304
+            }
+          ]
+        },
+        {
+          "name": "Divine Retribution",
+          "count": 2290,
+          "percent": 8.7475,
+          "ascendancies": [
+            {
+              "name": "Gladiator",
+              "count": 2282,
+              "percent": 34.6177
+            }
+          ]
+        },
+        {
+          "name": "Flicker Strike",
+          "count": 1965,
+          "percent": 7.506,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 1780,
+              "percent": 11.006
+            },
+            {
+              "name": "Gladiator",
+              "count": 147,
+              "percent": 2.23
+            },
+            {
+              "name": "Champion",
+              "count": 35,
+              "percent": 1.0638
+            }
+          ]
+        },
+        {
+          "name": "Autoexertion",
+          "count": 1539,
+          "percent": 5.8788,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 452,
+              "percent": 2.7948
+            },
+            {
+              "name": "Champion",
+              "count": 1086,
+              "percent": 33.0091
+            }
+          ]
+        },
+        {
+          "name": "General's Cry",
+          "count": 1539,
+          "percent": 5.8788,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 449,
+              "percent": 2.7762
+            },
+            {
+              "name": "Champion",
+              "count": 1088,
+              "percent": 33.0699
+            }
+          ]
+        },
+        {
+          "name": "Desecrate",
+          "count": 1532,
+          "percent": 5.852,
+          "ascendancies": [
+            {
+              "name": "Champion",
+              "count": 1522,
+              "percent": 46.2614
+            }
+          ]
+        },
+        {
+          "name": "Dual Strike of Ambidexterity",
+          "count": 1515,
+          "percent": 5.7871,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 178,
+              "percent": 1.1006
+            },
+            {
+              "name": "Gladiator",
+              "count": 1323,
+              "percent": 20.0698
+            },
+            {
+              "name": "Champion",
+              "count": 13,
+              "percent": 0.3951
+            }
+          ]
+        },
+        {
+          "name": "Cyclone",
+          "count": 1509,
+          "percent": 5.7642,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 1358,
+              "percent": 8.3967
+            },
+            {
+              "name": "Gladiator",
+              "count": 48,
+              "percent": 0.7282
+            },
+            {
+              "name": "Champion",
+              "count": 98,
+              "percent": 2.9787
+            }
+          ]
+        },
+        {
+          "name": "Shockwave",
+          "count": 1458,
+          "percent": 5.5693,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 1445,
+              "percent": 8.9346
+            },
+            {
+              "name": "Gladiator",
+              "count": 2,
+              "percent": 0.0303
+            },
+            {
+              "name": "Champion",
+              "count": 5,
+              "percent": 0.152
+            }
+          ]
+        },
+        {
+          "name": "Static Strike of Gathering Lightning",
+          "count": 1346,
+          "percent": 5.1415,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 1281,
+              "percent": 7.9206
+            },
+            {
+              "name": "Gladiator",
+              "count": 48,
+              "percent": 0.7282
+            },
+            {
+              "name": "Champion",
+              "count": 17,
+              "percent": 0.5167
+            }
+          ]
+        },
+        {
+          "name": "Static Strike",
+          "count": 1260,
+          "percent": 4.813,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 1165,
+              "percent": 7.2034
+            },
+            {
+              "name": "Gladiator",
+              "count": 44,
+              "percent": 0.6675
+            },
+            {
+              "name": "Champion",
+              "count": 22,
+              "percent": 0.6687
+            }
+          ]
+        },
+        {
+          "name": "Shield Crush",
+          "count": 1203,
+          "percent": 4.5953,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 1169,
+              "percent": 7.2281
+            },
+            {
+              "name": "Gladiator",
+              "count": 4,
+              "percent": 0.0607
+            },
+            {
+              "name": "Champion",
+              "count": 27,
+              "percent": 0.8207
+            }
+          ]
+        },
+        {
+          "name": "Lacerate of Butchering",
+          "count": 1087,
+          "percent": 4.1522,
+          "ascendancies": [
+            {
+              "name": "Champion",
+              "count": 1083,
+              "percent": 32.9179
+            }
+          ]
+        },
+        {
+          "name": "Lacerate of Haemorrhage",
+          "count": 658,
+          "percent": 2.5135,
+          "ascendancies": [
+            {
+              "name": "Gladiator",
+              "count": 657,
+              "percent": 9.9666
+            }
+          ]
+        },
+        {
+          "name": "Ground Slam of Earthshaking",
+          "count": 632,
+          "percent": 2.4141,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 625,
+              "percent": 3.8645
+            },
+            {
+              "name": "Gladiator",
+              "count": 2,
+              "percent": 0.0303
+            },
+            {
+              "name": "Champion",
+              "count": 2,
+              "percent": 0.0608
+            }
+          ]
+        },
+        {
+          "name": "Frost Blades",
+          "count": 510,
+          "percent": 1.9481,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 487,
+              "percent": 3.0112
+            },
+            {
+              "name": "Gladiator",
+              "count": 8,
+              "percent": 0.1214
+            },
+            {
+              "name": "Champion",
+              "count": 8,
+              "percent": 0.2432
+            }
+          ]
+        },
+        {
+          "name": "Unhinge",
+          "count": 437,
+          "percent": 1.6693,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 1,
+              "percent": 0.0062
+            },
+            {
+              "name": "Gladiator",
+              "count": 427,
+              "percent": 6.4775
+            },
+            {
+              "name": "Champion",
+              "count": 6,
+              "percent": 0.1824
+            }
+          ]
+        },
+        {
+          "name": "Smite",
+          "count": 390,
+          "percent": 1.4897,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 48,
+              "percent": 0.2968
+            },
+            {
+              "name": "Gladiator",
+              "count": 8,
+              "percent": 0.1214
+            },
+            {
+              "name": "Champion",
+              "count": 334,
+              "percent": 10.152
+            }
+          ]
+        },
+        {
+          "name": "Eviscerate",
+          "count": 383,
+          "percent": 1.463,
+          "ascendancies": [
+            {
+              "name": "Gladiator",
+              "count": 380,
+              "percent": 5.7646
+            }
+          ]
+        },
+        {
+          "name": "Detonate Dead of Scavenging",
+          "count": 380,
+          "percent": 1.4515,
+          "ascendancies": [
+            {
+              "name": "Gladiator",
+              "count": 378,
+              "percent": 5.7342
+            }
+          ]
+        },
+        {
+          "name": "Sunder",
+          "count": 315,
+          "percent": 1.2033,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 220,
+              "percent": 1.3603
+            },
+            {
+              "name": "Gladiator",
+              "count": 68,
+              "percent": 1.0316
+            },
+            {
+              "name": "Champion",
+              "count": 21,
+              "percent": 0.6383
+            }
+          ]
+        },
+        {
+          "name": "Earthshatter",
+          "count": 181,
+          "percent": 0.6914,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 100,
+              "percent": 0.6183
+            },
+            {
+              "name": "Champion",
+              "count": 81,
+              "percent": 2.462
+            }
+          ]
+        },
+        {
+          "name": "Vaal Cyclone",
+          "count": 179,
+          "percent": 0.6838,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 166,
+              "percent": 1.0264
+            },
+            {
+              "name": "Gladiator",
+              "count": 7,
+              "percent": 0.1062
+            },
+            {
+              "name": "Champion",
+              "count": 6,
+              "percent": 0.1824
+            }
+          ]
+        },
+        {
+          "name": "Wave of Conviction of Trarthus",
+          "count": 158,
+          "percent": 0.6035,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 1,
+              "percent": 0.0062
+            },
+            {
+              "name": "Gladiator",
+              "count": 157,
+              "percent": 2.3817
+            }
+          ]
+        },
+        {
+          "name": "Vaal Ground Slam",
+          "count": 149,
+          "percent": 0.5692,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 147,
+              "percent": 0.9089
+            },
+            {
+              "name": "Gladiator",
+              "count": 1,
+              "percent": 0.0152
+            },
+            {
+              "name": "Champion",
+              "count": 1,
+              "percent": 0.0304
+            }
+          ]
+        },
+        {
+          "name": "Split Arrow",
+          "count": 133,
+          "percent": 0.508,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 91,
+              "percent": 0.5627
+            },
+            {
+              "name": "Gladiator",
+              "count": 40,
+              "percent": 0.6068
+            }
+          ]
+        },
+        {
+          "name": "Puncture",
+          "count": 124,
+          "percent": 0.4737,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 90,
+              "percent": 0.5565
+            },
+            {
+              "name": "Gladiator",
+              "count": 34,
+              "percent": 0.5158
+            }
+          ]
+        },
+        {
+          "name": "Smite of Divine Judgement",
+          "count": 122,
+          "percent": 0.466,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 87,
+              "percent": 0.5379
+            },
+            {
+              "name": "Gladiator",
+              "count": 23,
+              "percent": 0.3489
+            },
+            {
+              "name": "Champion",
+              "count": 12,
+              "percent": 0.3647
+            }
+          ]
+        },
+        {
+          "name": "Blade Blast",
+          "count": 112,
+          "percent": 0.4278,
+          "ascendancies": [
+            {
+              "name": "Gladiator",
+              "count": 111,
+              "percent": 1.6839
+            }
+          ]
+        },
+        {
+          "name": "Assassin's Mark",
+          "count": 108,
+          "percent": 0.4125,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 108,
+              "percent": 0.6678
+            }
+          ]
+        },
+        {
+          "name": "Vaal Smite",
+          "count": 107,
+          "percent": 0.4087,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 32,
+              "percent": 0.1979
+            },
+            {
+              "name": "Champion",
+              "count": 75,
+              "percent": 2.2796
+            }
+          ]
+        },
+        {
+          "name": "Earthquake",
+          "count": 103,
+          "percent": 0.3934,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 2,
+              "percent": 0.0124
+            },
+            {
+              "name": "Gladiator",
+              "count": 93,
+              "percent": 1.4108
+            },
+            {
+              "name": "Champion",
+              "count": 1,
+              "percent": 0.0304
+            }
+          ]
+        },
+        {
+          "name": "Blade Flurry",
+          "count": 98,
+          "percent": 0.3743,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 95,
+              "percent": 0.5874
+            },
+            {
+              "name": "Gladiator",
+              "count": 1,
+              "percent": 0.0152
+            }
+          ]
+        },
+        {
+          "name": "Vaal Flicker Strike",
+          "count": 90,
+          "percent": 0.3438,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 77,
+              "percent": 0.4761
+            },
+            {
+              "name": "Gladiator",
+              "count": 9,
+              "percent": 0.1365
+            },
+            {
+              "name": "Champion",
+              "count": 7,
+              "percent": 0.2128
+            }
+          ]
+        },
+        {
+          "name": "Whirling Blades",
+          "count": 87,
+          "percent": 0.3323,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 90,
+              "percent": 0.5565
+            }
+          ]
+        },
+        {
+          "name": "Reave of Refraction",
+          "count": 80,
+          "percent": 0.3056,
+          "ascendancies": [
+            {
+              "name": "Slayer",
+              "count": 62,
+              "percent": 0.3834
+            },
+            {
+              "name": "Gladiator",
+              "count": 9,
+              "percent": 0.1365
+            },
+            {
+              "name": "Champion",
+              "count": 11,
+              "percent": 0.3343
+            }
+          ]
+        }
+      ]
+    },
+    "Marauder": {
+      "total": 18740,
+      "skills": [
+        {
+          "name": "Righteous Fire",
+          "count": 7129,
+          "percent": 38.0416,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 14,
+              "percent": 0.2664
+            },
+            {
+              "name": "Chieftain",
+              "count": 7106,
+              "percent": 68.9836
+            }
+          ]
+        },
+        {
+          "name": "Scorching Ray of Immolation",
+          "count": 4123,
+          "percent": 22.0011,
+          "ascendancies": [
+            {
+              "name": "Chieftain",
+              "count": 4123,
+              "percent": 40.0252
+            }
+          ]
+        },
+        {
+          "name": "Fire Trap",
+          "count": 1748,
+          "percent": 9.3276,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 1,
+              "percent": 0.019
+            },
+            {
+              "name": "Chieftain",
+              "count": 1745,
+              "percent": 16.9401
+            }
+          ]
+        },
+        {
+          "name": "Earthshatter",
+          "count": 1610,
+          "percent": 8.5912,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 176,
+              "percent": 3.3486
+            },
+            {
+              "name": "Berserker",
+              "count": 1422,
+              "percent": 45.9154
+            },
+            {
+              "name": "Chieftain",
+              "count": 4,
+              "percent": 0.0388
+            }
+          ]
+        },
+        {
+          "name": "Detonate Dead of Scavenging",
+          "count": 1015,
+          "percent": 5.4162,
+          "ascendancies": [
+            {
+              "name": "Chieftain",
+              "count": 1017,
+              "percent": 9.8728
+            }
+          ]
+        },
+        {
+          "name": "Boneshatter of Complex Trauma",
+          "count": 931,
+          "percent": 4.968,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 910,
+              "percent": 17.3135
+            },
+            {
+              "name": "Berserker",
+              "count": 20,
+              "percent": 0.6458
+            }
+          ]
+        },
+        {
+          "name": "Smite of Divine Judgement",
+          "count": 913,
+          "percent": 4.8719,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 867,
+              "percent": 16.4954
+            },
+            {
+              "name": "Berserker",
+              "count": 43,
+              "percent": 1.3884
+            }
+          ]
+        },
+        {
+          "name": "Static Strike of Gathering Lightning",
+          "count": 878,
+          "percent": 4.6852,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 866,
+              "percent": 16.4764
+            },
+            {
+              "name": "Berserker",
+              "count": 9,
+              "percent": 0.2906
+            }
+          ]
+        },
+        {
+          "name": "Flicker Strike",
+          "count": 663,
+          "percent": 3.5379,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 37,
+              "percent": 0.704
+            },
+            {
+              "name": "Berserker",
+              "count": 622,
+              "percent": 20.084
+            },
+            {
+              "name": "Chieftain",
+              "count": 1,
+              "percent": 0.0097
+            }
+          ]
+        },
+        {
+          "name": "Sunder",
+          "count": 633,
+          "percent": 3.3778,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 231,
+              "percent": 4.395
+            },
+            {
+              "name": "Berserker",
+              "count": 378,
+              "percent": 12.2054
+            },
+            {
+              "name": "Chieftain",
+              "count": 8,
+              "percent": 0.0777
+            }
+          ]
+        },
+        {
+          "name": "Vaal Righteous Fire",
+          "count": 497,
+          "percent": 2.6521,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 1,
+              "percent": 0.019
+            },
+            {
+              "name": "Chieftain",
+              "count": 495,
+              "percent": 4.8054
+            }
+          ]
+        },
+        {
+          "name": "Vaal Smite",
+          "count": 484,
+          "percent": 2.5827,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 478,
+              "percent": 9.0944
+            },
+            {
+              "name": "Berserker",
+              "count": 4,
+              "percent": 0.1292
+            }
+          ]
+        },
+        {
+          "name": "Fireball of Radiation",
+          "count": 398,
+          "percent": 2.1238,
+          "ascendancies": [
+            {
+              "name": "Chieftain",
+              "count": 403,
+              "percent": 3.9122
+            }
+          ]
+        },
+        {
+          "name": "Molten Strike of the Zenith",
+          "count": 358,
+          "percent": 1.9104,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 357,
+              "percent": 6.7922
+            }
+          ]
+        },
+        {
+          "name": "Flame Surge of Combusting",
+          "count": 298,
+          "percent": 1.5902,
+          "ascendancies": [
+            {
+              "name": "Chieftain",
+              "count": 298,
+              "percent": 2.8929
+            }
+          ]
+        },
+        {
+          "name": "Static Strike",
+          "count": 261,
+          "percent": 1.3927,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 196,
+              "percent": 3.7291
+            },
+            {
+              "name": "Berserker",
+              "count": 50,
+              "percent": 1.6145
+            },
+            {
+              "name": "Chieftain",
+              "count": 5,
+              "percent": 0.0485
+            }
+          ]
+        },
+        {
+          "name": "Cremation of the Volcano",
+          "count": 232,
+          "percent": 1.238,
+          "ascendancies": [
+            {
+              "name": "Chieftain",
+              "count": 232,
+              "percent": 2.2522
+            }
+          ]
+        },
+        {
+          "name": "Double Strike of Momentum",
+          "count": 212,
+          "percent": 1.1313,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 208,
+              "percent": 3.9574
+            },
+            {
+              "name": "Berserker",
+              "count": 2,
+              "percent": 0.0646
+            }
+          ]
+        },
+        {
+          "name": "Ethereal Knives",
+          "count": 205,
+          "percent": 1.0939,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 6,
+              "percent": 0.1142
+            },
+            {
+              "name": "Chieftain",
+              "count": 200,
+              "percent": 1.9416
+            }
+          ]
+        },
+        {
+          "name": "Reave of Refraction",
+          "count": 170,
+          "percent": 0.9072,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 171,
+              "percent": 3.2534
+            }
+          ]
+        },
+        {
+          "name": "Shield Crush",
+          "count": 170,
+          "percent": 0.9072,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 155,
+              "percent": 2.949
+            },
+            {
+              "name": "Berserker",
+              "count": 15,
+              "percent": 0.4843
+            }
+          ]
+        },
+        {
+          "name": "Kinetic Blast",
+          "count": 163,
+          "percent": 0.8698,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 149,
+              "percent": 2.8349
+            },
+            {
+              "name": "Berserker",
+              "count": 10,
+              "percent": 0.3229
+            }
+          ]
+        },
+        {
+          "name": "Rage Vortex",
+          "count": 162,
+          "percent": 0.8645,
+          "ascendancies": [
+            {
+              "name": "Berserker",
+              "count": 155,
+              "percent": 5.0048
+            }
+          ]
+        },
+        {
+          "name": "Leap Slam",
+          "count": 138,
+          "percent": 0.7364,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 110,
+              "percent": 2.0928
+            },
+            {
+              "name": "Berserker",
+              "count": 25,
+              "percent": 0.8072
+            },
+            {
+              "name": "Chieftain",
+              "count": 1,
+              "percent": 0.0097
+            }
+          ]
+        },
+        {
+          "name": "Consecrated Path of Endurance",
+          "count": 128,
+          "percent": 0.683,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 128,
+              "percent": 2.4353
+            },
+            {
+              "name": "Berserker",
+              "count": 2,
+              "percent": 0.0646
+            }
+          ]
+        },
+        {
+          "name": "Firestorm of Pelting",
+          "count": 123,
+          "percent": 0.6564,
+          "ascendancies": [
+            {
+              "name": "Chieftain",
+              "count": 124,
+              "percent": 1.2038
+            }
+          ]
+        },
+        {
+          "name": "Ice Crash",
+          "count": 119,
+          "percent": 0.635,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 1,
+              "percent": 0.019
+            },
+            {
+              "name": "Chieftain",
+              "count": 117,
+              "percent": 1.1358
+            }
+          ]
+        },
+        {
+          "name": "Heavy Strike of Trarthus",
+          "count": 118,
+          "percent": 0.6297,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 119,
+              "percent": 2.2641
+            }
+          ]
+        },
+        {
+          "name": "Unhinge",
+          "count": 118,
+          "percent": 0.6297,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 7,
+              "percent": 0.1332
+            },
+            {
+              "name": "Chieftain",
+              "count": 113,
+              "percent": 1.097
+            }
+          ]
+        },
+        {
+          "name": "Shockwave",
+          "count": 109,
+          "percent": 0.5816,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 101,
+              "percent": 1.9216
+            },
+            {
+              "name": "Berserker",
+              "count": 6,
+              "percent": 0.1937
+            },
+            {
+              "name": "Chieftain",
+              "count": 1,
+              "percent": 0.0097
+            }
+          ]
+        },
+        {
+          "name": "Dual Strike of Ambidexterity",
+          "count": 102,
+          "percent": 0.5443,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 83,
+              "percent": 1.5791
+            },
+            {
+              "name": "Berserker",
+              "count": 3,
+              "percent": 0.0969
+            },
+            {
+              "name": "Chieftain",
+              "count": 18,
+              "percent": 0.1747
+            }
+          ]
+        },
+        {
+          "name": "Animate Guardian",
+          "count": 94,
+          "percent": 0.5016,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 77,
+              "percent": 1.465
+            },
+            {
+              "name": "Berserker",
+              "count": 2,
+              "percent": 0.0646
+            },
+            {
+              "name": "Chieftain",
+              "count": 15,
+              "percent": 0.1456
+            }
+          ]
+        },
+        {
+          "name": "Detonate Dead",
+          "count": 91,
+          "percent": 0.4856,
+          "ascendancies": [
+            {
+              "name": "Chieftain",
+              "count": 92,
+              "percent": 0.8931
+            }
+          ]
+        },
+        {
+          "name": "Void Shockwave",
+          "count": 91,
+          "percent": 0.4856,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 48,
+              "percent": 0.9132
+            },
+            {
+              "name": "Berserker",
+              "count": 38,
+              "percent": 1.227
+            }
+          ]
+        },
+        {
+          "name": "Scorching Ray",
+          "count": 86,
+          "percent": 0.4589,
+          "ascendancies": [
+            {
+              "name": "Chieftain",
+              "count": 83,
+              "percent": 0.8057
+            }
+          ]
+        },
+        {
+          "name": "General's Cry",
+          "count": 82,
+          "percent": 0.4376,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 14,
+              "percent": 0.2664
+            },
+            {
+              "name": "Berserker",
+              "count": 4,
+              "percent": 0.1292
+            },
+            {
+              "name": "Chieftain",
+              "count": 64,
+              "percent": 0.6213
+            }
+          ]
+        },
+        {
+          "name": "Smite",
+          "count": 76,
+          "percent": 0.4055,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 73,
+              "percent": 1.3889
+            }
+          ]
+        },
+        {
+          "name": "Autoexertion",
+          "count": 75,
+          "percent": 0.4002,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 10,
+              "percent": 0.1903
+            },
+            {
+              "name": "Berserker",
+              "count": 4,
+              "percent": 0.1292
+            },
+            {
+              "name": "Chieftain",
+              "count": 61,
+              "percent": 0.5922
+            }
+          ]
+        },
+        {
+          "name": "Ethereal Knives of the Massacre",
+          "count": 75,
+          "percent": 0.4002,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 37,
+              "percent": 0.704
+            },
+            {
+              "name": "Chieftain",
+              "count": 37,
+              "percent": 0.3592
+            }
+          ]
+        },
+        {
+          "name": "Ground Slam of Earthshaking",
+          "count": 73,
+          "percent": 0.3895,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 15,
+              "percent": 0.2854
+            },
+            {
+              "name": "Berserker",
+              "count": 46,
+              "percent": 1.4853
+            },
+            {
+              "name": "Chieftain",
+              "count": 3,
+              "percent": 0.0291
+            }
+          ]
+        },
+        {
+          "name": "Volcanic Fissure of Snaking",
+          "count": 71,
+          "percent": 0.3789,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 27,
+              "percent": 0.5137
+            },
+            {
+              "name": "Berserker",
+              "count": 34,
+              "percent": 1.0978
+            },
+            {
+              "name": "Chieftain",
+              "count": 4,
+              "percent": 0.0388
+            }
+          ]
+        },
+        {
+          "name": "Death Wish",
+          "count": 65,
+          "percent": 0.3469,
+          "ascendancies": [
+            {
+              "name": "Chieftain",
+              "count": 65,
+              "percent": 0.631
+            }
+          ]
+        },
+        {
+          "name": "Shield Crush of the Chieftain",
+          "count": 64,
+          "percent": 0.3415,
+          "ascendancies": [
+            {
+              "name": "Juggernaut",
+              "count": 1,
+              "percent": 0.019
+            },
+            {
+              "name": "Berserker",
+              "count": 1,
+              "percent": 0.0323
+            },
+            {
+              "name": "Chieftain",
+              "count": 61,
+              "percent": 0.5922
+            }
+          ]
+        },
+        {
+          "name": "Vaal Flicker Strike",
+          "count": 64,
+          "percent": 0.3415,
+          "ascendancies": [
+            {
+              "name": "Berserker",
+              "count": 61,
+              "percent": 1.9696
+            }
+          ]
+        },
+        {
+          "name": "Flame Wall",
+          "count": 61,
+          "percent": 0.3255,
+          "ascendancies": [
+            {
+              "name": "Chieftain",
+              "count": 62,
+              "percent": 0.6019
+            }
+          ]
+        }
+      ]
+    },
+    "Ranger": {
+      "total": 17936,
+      "skills": [
+        {
+          "name": "Poisonous Concoction of Bouncing",
+          "count": 2582,
+          "percent": 14.3956,
+          "ascendancies": [
+            {
+              "name": "Deadeye",
+              "count": 8,
+              "percent": 0.0951
+            },
+            {
+              "name": "Pathfinder",
+              "count": 2569,
+              "percent": 31.1469
+            }
+          ]
+        },
+        {
+          "name": "Bladefall of Impaling",
+          "count": 2550,
+          "percent": 14.2172,
+          "ascendancies": [
+            {
+              "name": "Pathfinder",
+              "count": 2547,
+              "percent": 30.8802
+            }
+          ]
+        },
+        {
+          "name": "Lightning Arrow",
+          "count": 2433,
+          "percent": 13.5649,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 21,
+              "percent": 1.7692
+            },
+            {
+              "name": "Deadeye",
+              "count": 2398,
+              "percent": 28.5205
+            }
+          ]
+        },
+        {
+          "name": "Elemental Hit of the Spectrum",
+          "count": 2391,
+          "percent": 13.3307,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 16,
+              "percent": 1.3479
+            },
+            {
+              "name": "Deadeye",
+              "count": 2368,
+              "percent": 28.1637
+            },
+            {
+              "name": "Pathfinder",
+              "count": 2,
+              "percent": 0.0242
+            }
+          ]
+        },
+        {
+          "name": "Storm Rain",
+          "count": 1724,
+          "percent": 9.612,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 33,
+              "percent": 2.7801
+            },
+            {
+              "name": "Deadeye",
+              "count": 1690,
+              "percent": 20.0999
+            }
+          ]
+        },
+        {
+          "name": "Unhinge",
+          "count": 1095,
+          "percent": 6.105,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 2,
+              "percent": 0.1685
+            },
+            {
+              "name": "Pathfinder",
+              "count": 1093,
+              "percent": 13.2517
+            }
+          ]
+        },
+        {
+          "name": "Kinetic Blast",
+          "count": 998,
+          "percent": 5.5642,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 45,
+              "percent": 3.7911
+            },
+            {
+              "name": "Deadeye",
+              "count": 941,
+              "percent": 11.1917
+            },
+            {
+              "name": "Pathfinder",
+              "count": 14,
+              "percent": 0.1697
+            }
+          ]
+        },
+        {
+          "name": "Artillery Ballista",
+          "count": 827,
+          "percent": 4.6108,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 22,
+              "percent": 1.8534
+            },
+            {
+              "name": "Deadeye",
+              "count": 802,
+              "percent": 9.5385
+            }
+          ]
+        },
+        {
+          "name": "Venom Gyre",
+          "count": 767,
+          "percent": 4.2763,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 4,
+              "percent": 0.337
+            },
+            {
+              "name": "Deadeye",
+              "count": 763,
+              "percent": 9.0747
+            }
+          ]
+        },
+        {
+          "name": "Vaal Venom Gyre",
+          "count": 693,
+          "percent": 3.8637,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 4,
+              "percent": 0.337
+            },
+            {
+              "name": "Deadeye",
+              "count": 689,
+              "percent": 8.1946
+            }
+          ]
+        },
+        {
+          "name": "Toxic Rain",
+          "count": 651,
+          "percent": 3.6296,
+          "ascendancies": [
+            {
+              "name": "Deadeye",
+              "count": 2,
+              "percent": 0.0238
+            },
+            {
+              "name": "Pathfinder",
+              "count": 645,
+              "percent": 7.8201
+            }
+          ]
+        },
+        {
+          "name": "Burning Arrow",
+          "count": 624,
+          "percent": 3.479,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 2,
+              "percent": 0.1685
+            },
+            {
+              "name": "Deadeye",
+              "count": 620,
+              "percent": 7.3739
+            }
+          ]
+        },
+        {
+          "name": "Viper Strike of the Mamba",
+          "count": 607,
+          "percent": 3.3843,
+          "ascendancies": [
+            {
+              "name": "Pathfinder",
+              "count": 607,
+              "percent": 7.3594
+            }
+          ]
+        },
+        {
+          "name": "Vaal Burning Arrow",
+          "count": 603,
+          "percent": 3.362,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 2,
+              "percent": 0.1685
+            },
+            {
+              "name": "Deadeye",
+              "count": 601,
+              "percent": 7.148
+            }
+          ]
+        },
+        {
+          "name": "Ethereal Knives of the Massacre",
+          "count": 522,
+          "percent": 2.9103,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 3,
+              "percent": 0.2527
+            },
+            {
+              "name": "Deadeye",
+              "count": 316,
+              "percent": 3.7583
+            },
+            {
+              "name": "Pathfinder",
+              "count": 203,
+              "percent": 2.4612
+            }
+          ]
+        },
+        {
+          "name": "Ice Shot of Penetration",
+          "count": 500,
+          "percent": 2.7877,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 225,
+              "percent": 18.9553
+            },
+            {
+              "name": "Deadeye",
+              "count": 274,
+              "percent": 3.2588
+            }
+          ]
+        },
+        {
+          "name": "Frenzy",
+          "count": 480,
+          "percent": 2.6762,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 12,
+              "percent": 1.011
+            },
+            {
+              "name": "Deadeye",
+              "count": 459,
+              "percent": 5.4591
+            },
+            {
+              "name": "Pathfinder",
+              "count": 9,
+              "percent": 0.1091
+            }
+          ]
+        },
+        {
+          "name": "Frost Blades",
+          "count": 461,
+          "percent": 2.5702,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 447,
+              "percent": 37.658
+            },
+            {
+              "name": "Deadeye",
+              "count": 1,
+              "percent": 0.0119
+            },
+            {
+              "name": "Pathfinder",
+              "count": 1,
+              "percent": 0.0121
+            }
+          ]
+        },
+        {
+          "name": "Caustic Arrow",
+          "count": 457,
+          "percent": 2.5479,
+          "ascendancies": [
+            {
+              "name": "Deadeye",
+              "count": 1,
+              "percent": 0.0119
+            },
+            {
+              "name": "Pathfinder",
+              "count": 450,
+              "percent": 5.4559
+            }
+          ]
+        },
+        {
+          "name": "Tornado Shot",
+          "count": 370,
+          "percent": 2.0629,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 8,
+              "percent": 0.674
+            },
+            {
+              "name": "Deadeye",
+              "count": 361,
+              "percent": 4.2935
+            }
+          ]
+        },
+        {
+          "name": "Barrage of Volley Fire",
+          "count": 344,
+          "percent": 1.9179,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 4,
+              "percent": 0.337
+            },
+            {
+              "name": "Deadeye",
+              "count": 339,
+              "percent": 4.0319
+            }
+          ]
+        },
+        {
+          "name": "Ethereal Knives",
+          "count": 335,
+          "percent": 1.8678,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 2,
+              "percent": 0.1685
+            },
+            {
+              "name": "Deadeye",
+              "count": 216,
+              "percent": 2.569
+            },
+            {
+              "name": "Pathfinder",
+              "count": 118,
+              "percent": 1.4306
+            }
+          ]
+        },
+        {
+          "name": "Temporal Chains",
+          "count": 235,
+          "percent": 1.3102,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 1,
+              "percent": 0.0842
+            },
+            {
+              "name": "Deadeye",
+              "count": 14,
+              "percent": 0.1665
+            },
+            {
+              "name": "Pathfinder",
+              "count": 220,
+              "percent": 2.6673
+            }
+          ]
+        },
+        {
+          "name": "Vaal Caustic Arrow",
+          "count": 223,
+          "percent": 1.2433,
+          "ascendancies": [
+            {
+              "name": "Pathfinder",
+              "count": 219,
+              "percent": 2.6552
+            }
+          ]
+        },
+        {
+          "name": "Doom Blast",
+          "count": 216,
+          "percent": 1.2043,
+          "ascendancies": [
+            {
+              "name": "Pathfinder",
+              "count": 215,
+              "percent": 2.6067
+            }
+          ]
+        },
+        {
+          "name": "Explosive Trap",
+          "count": 200,
+          "percent": 1.1151,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 1,
+              "percent": 0.0842
+            },
+            {
+              "name": "Pathfinder",
+              "count": 199,
+              "percent": 2.4127
+            }
+          ]
+        },
+        {
+          "name": "Vaal Lightning Arrow",
+          "count": 177,
+          "percent": 0.9868,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 3,
+              "percent": 0.2527
+            },
+            {
+              "name": "Deadeye",
+              "count": 173,
+              "percent": 2.0576
+            },
+            {
+              "name": "Pathfinder",
+              "count": 1,
+              "percent": 0.0121
+            }
+          ]
+        },
+        {
+          "name": "Viper Strike",
+          "count": 173,
+          "percent": 0.9645,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 2,
+              "percent": 0.1685
+            },
+            {
+              "name": "Deadeye",
+              "count": 1,
+              "percent": 0.0119
+            },
+            {
+              "name": "Pathfinder",
+              "count": 169,
+              "percent": 2.049
+            }
+          ]
+        },
+        {
+          "name": "Storm Rain of the Conduit",
+          "count": 162,
+          "percent": 0.9032,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 132,
+              "percent": 11.1205
+            },
+            {
+              "name": "Deadeye",
+              "count": 29,
+              "percent": 0.3449
+            }
+          ]
+        },
+        {
+          "name": "Flicker Strike",
+          "count": 153,
+          "percent": 0.853,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 20,
+              "percent": 1.6849
+            },
+            {
+              "name": "Deadeye",
+              "count": 132,
+              "percent": 1.5699
+            }
+          ]
+        },
+        {
+          "name": "Static Strike of Gathering Lightning",
+          "count": 139,
+          "percent": 0.775,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 48,
+              "percent": 4.0438
+            },
+            {
+              "name": "Deadeye",
+              "count": 91,
+              "percent": 1.0823
+            }
+          ]
+        },
+        {
+          "name": "Ensnaring Arrow",
+          "count": 109,
+          "percent": 0.6077,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 4,
+              "percent": 0.337
+            },
+            {
+              "name": "Deadeye",
+              "count": 100,
+              "percent": 1.1893
+            },
+            {
+              "name": "Pathfinder",
+              "count": 1,
+              "percent": 0.0121
+            }
+          ]
+        },
+        {
+          "name": "Vaal Ice Shot",
+          "count": 108,
+          "percent": 0.6021,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 69,
+              "percent": 5.813
+            },
+            {
+              "name": "Deadeye",
+              "count": 38,
+              "percent": 0.452
+            },
+            {
+              "name": "Pathfinder",
+              "count": 1,
+              "percent": 0.0121
+            }
+          ]
+        },
+        {
+          "name": "Raise Spectre",
+          "count": 104,
+          "percent": 0.5798,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 2,
+              "percent": 0.1685
+            },
+            {
+              "name": "Pathfinder",
+              "count": 97,
+              "percent": 1.176
+            }
+          ]
+        },
+        {
+          "name": "Tornado",
+          "count": 90,
+          "percent": 0.5018,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 9,
+              "percent": 0.7582
+            },
+            {
+              "name": "Deadeye",
+              "count": 81,
+              "percent": 0.9634
+            }
+          ]
+        },
+        {
+          "name": "Poisonous Concoction",
+          "count": 89,
+          "percent": 0.4962,
+          "ascendancies": [
+            {
+              "name": "Deadeye",
+              "count": 2,
+              "percent": 0.0238
+            },
+            {
+              "name": "Pathfinder",
+              "count": 84,
+              "percent": 1.0184
+            }
+          ]
+        },
+        {
+          "name": "Spectral Throw",
+          "count": 87,
+          "percent": 0.4851,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 66,
+              "percent": 5.5602
+            },
+            {
+              "name": "Deadeye",
+              "count": 19,
+              "percent": 0.226
+            }
+          ]
+        },
+        {
+          "name": "Icicle Mine of Fanning",
+          "count": 81,
+          "percent": 0.4516,
+          "ascendancies": [
+            {
+              "name": "Deadeye",
+              "count": 82,
+              "percent": 0.9753
+            }
+          ]
+        },
+        {
+          "name": "Ice Shot",
+          "count": 79,
+          "percent": 0.4405,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 9,
+              "percent": 0.7582
+            },
+            {
+              "name": "Deadeye",
+              "count": 66,
+              "percent": 0.785
+            }
+          ]
+        },
+        {
+          "name": "Soulrend of the Spiral",
+          "count": 76,
+          "percent": 0.4237,
+          "ascendancies": [
+            {
+              "name": "Pathfinder",
+              "count": 76,
+              "percent": 0.9214
+            }
+          ]
+        },
+        {
+          "name": "Rain of Arrows of Saturation",
+          "count": 70,
+          "percent": 0.3903,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 24,
+              "percent": 2.0219
+            },
+            {
+              "name": "Deadeye",
+              "count": 46,
+              "percent": 0.5471
+            }
+          ]
+        },
+        {
+          "name": "Kinetic Fusillade",
+          "count": 69,
+          "percent": 0.3847,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 44,
+              "percent": 3.7068
+            },
+            {
+              "name": "Deadeye",
+              "count": 22,
+              "percent": 0.2617
+            },
+            {
+              "name": "Pathfinder",
+              "count": 1,
+              "percent": 0.0121
+            }
+          ]
+        },
+        {
+          "name": "Phase Run",
+          "count": 68,
+          "percent": 0.3791,
+          "ascendancies": [
+            {
+              "name": "Pathfinder",
+              "count": 65,
+              "percent": 0.7881
+            }
+          ]
+        },
+        {
+          "name": "Automation",
+          "count": 66,
+          "percent": 0.368,
+          "ascendancies": [
+            {
+              "name": "Pathfinder",
+              "count": 65,
+              "percent": 0.7881
+            }
+          ]
+        },
+        {
+          "name": "Sniper's Mark",
+          "count": 65,
+          "percent": 0.3624,
+          "ascendancies": [
+            {
+              "name": "Warden",
+              "count": 2,
+              "percent": 0.1685
+            },
+            {
+              "name": "Deadeye",
+              "count": 63,
+              "percent": 0.7493
+            }
+          ]
+        }
+      ]
+    },
+    "Shadow": {
+      "total": 8002,
+      "skills": [
+        {
+          "name": "Exsanguinate",
+          "count": 885,
+          "percent": 11.0597,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 384,
+              "percent": 6.4625
+            },
+            {
+              "name": "Trickster",
+              "count": 485,
+              "percent": 37.3652
+            },
+            {
+              "name": "Saboteur",
+              "count": 14,
+              "percent": 2.0231
+            }
+          ]
+        },
+        {
+          "name": "Viper Strike of the Mamba",
+          "count": 821,
+          "percent": 10.2599,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 819,
+              "percent": 13.7832
+            },
+            {
+              "name": "Trickster",
+              "count": 2,
+              "percent": 0.1541
+            }
+          ]
+        },
+        {
+          "name": "Lancing Steel of Spraying",
+          "count": 643,
+          "percent": 8.0355,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 639,
+              "percent": 10.754
+            },
+            {
+              "name": "Saboteur",
+              "count": 3,
+              "percent": 0.4335
+            }
+          ]
+        },
+        {
+          "name": "Icicle Mine of Fanning",
+          "count": 549,
+          "percent": 6.8608,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 542,
+              "percent": 9.1215
+            },
+            {
+              "name": "Saboteur",
+              "count": 6,
+              "percent": 0.8671
+            }
+          ]
+        },
+        {
+          "name": "Static Strike of Gathering Lightning",
+          "count": 423,
+          "percent": 5.2862,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 414,
+              "percent": 6.9674
+            },
+            {
+              "name": "Trickster",
+              "count": 9,
+              "percent": 0.6934
+            }
+          ]
+        },
+        {
+          "name": "Ethereal Knives",
+          "count": 359,
+          "percent": 4.4864,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 327,
+              "percent": 5.5032
+            },
+            {
+              "name": "Trickster",
+              "count": 13,
+              "percent": 1.0015
+            },
+            {
+              "name": "Saboteur",
+              "count": 19,
+              "percent": 2.7457
+            }
+          ]
+        },
+        {
+          "name": "Bladefall",
+          "count": 284,
+          "percent": 3.5491,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 283,
+              "percent": 4.7627
+            },
+            {
+              "name": "Saboteur",
+              "count": 1,
+              "percent": 0.1445
+            }
+          ]
+        },
+        {
+          "name": "Ice Trap",
+          "count": 250,
+          "percent": 3.1242,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 213,
+              "percent": 3.5847
+            },
+            {
+              "name": "Trickster",
+              "count": 2,
+              "percent": 0.1541
+            },
+            {
+              "name": "Saboteur",
+              "count": 34,
+              "percent": 4.9133
+            }
+          ]
+        },
+        {
+          "name": "Poisonous Concoction of Bouncing",
+          "count": 245,
+          "percent": 3.0617,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 241,
+              "percent": 4.0559
+            },
+            {
+              "name": "Trickster",
+              "count": 4,
+              "percent": 0.3082
+            }
+          ]
+        },
+        {
+          "name": "Rolling Magma",
+          "count": 224,
+          "percent": 2.7993,
+          "ascendancies": [
+            {
+              "name": "Saboteur",
+              "count": 222,
+              "percent": 32.0809
+            }
+          ]
+        },
+        {
+          "name": "Flicker Strike",
+          "count": 222,
+          "percent": 2.7743,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 8,
+              "percent": 0.1346
+            },
+            {
+              "name": "Trickster",
+              "count": 213,
+              "percent": 16.4099
+            },
+            {
+              "name": "Saboteur",
+              "count": 1,
+              "percent": 0.1445
+            }
+          ]
+        },
+        {
+          "name": "Doom Blast",
+          "count": 203,
+          "percent": 2.5369,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 199,
+              "percent": 3.349
+            },
+            {
+              "name": "Saboteur",
+              "count": 3,
+              "percent": 0.4335
+            }
+          ]
+        },
+        {
+          "name": "Temporal Chains",
+          "count": 201,
+          "percent": 2.5119,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 199,
+              "percent": 3.349
+            },
+            {
+              "name": "Trickster",
+              "count": 2,
+              "percent": 0.1541
+            }
+          ]
+        },
+        {
+          "name": "Blade Blast",
+          "count": 174,
+          "percent": 2.1745,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 170,
+              "percent": 2.861
+            },
+            {
+              "name": "Saboteur",
+              "count": 4,
+              "percent": 0.578
+            }
+          ]
+        },
+        {
+          "name": "Cyclone",
+          "count": 167,
+          "percent": 2.087,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 149,
+              "percent": 2.5076
+            },
+            {
+              "name": "Trickster",
+              "count": 9,
+              "percent": 0.6934
+            },
+            {
+              "name": "Saboteur",
+              "count": 9,
+              "percent": 1.3006
+            }
+          ]
+        },
+        {
+          "name": "Lightning Tendrils of Escalation",
+          "count": 158,
+          "percent": 1.9745,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 157,
+              "percent": 2.6422
+            }
+          ]
+        },
+        {
+          "name": "Frost Blades",
+          "count": 149,
+          "percent": 1.862,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 69,
+              "percent": 1.1612
+            },
+            {
+              "name": "Trickster",
+              "count": 76,
+              "percent": 5.8552
+            },
+            {
+              "name": "Saboteur",
+              "count": 1,
+              "percent": 0.1445
+            }
+          ]
+        },
+        {
+          "name": "Discharge",
+          "count": 128,
+          "percent": 1.5996,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 127,
+              "percent": 2.1373
+            }
+          ]
+        },
+        {
+          "name": "Spellslinger",
+          "count": 126,
+          "percent": 1.5746,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 123,
+              "percent": 2.07
+            },
+            {
+              "name": "Saboteur",
+              "count": 3,
+              "percent": 0.4335
+            }
+          ]
+        },
+        {
+          "name": "Power Siphon",
+          "count": 125,
+          "percent": 1.5621,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 98,
+              "percent": 1.6493
+            },
+            {
+              "name": "Trickster",
+              "count": 27,
+              "percent": 2.0801
+            }
+          ]
+        },
+        {
+          "name": "Arc of Oscillating",
+          "count": 123,
+          "percent": 1.5371,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 121,
+              "percent": 2.0364
+            },
+            {
+              "name": "Saboteur",
+              "count": 2,
+              "percent": 0.289
+            }
+          ]
+        },
+        {
+          "name": "Reap",
+          "count": 110,
+          "percent": 1.3747,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 31,
+              "percent": 0.5217
+            },
+            {
+              "name": "Trickster",
+              "count": 75,
+              "percent": 5.7781
+            },
+            {
+              "name": "Saboteur",
+              "count": 4,
+              "percent": 0.578
+            }
+          ]
+        },
+        {
+          "name": "Blade Blast of Unloading",
+          "count": 105,
+          "percent": 1.3122,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 10,
+              "percent": 0.1683
+            },
+            {
+              "name": "Saboteur",
+              "count": 95,
+              "percent": 13.7283
+            }
+          ]
+        },
+        {
+          "name": "Lightning Strike",
+          "count": 100,
+          "percent": 1.2497,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 69,
+              "percent": 1.1612
+            },
+            {
+              "name": "Trickster",
+              "count": 31,
+              "percent": 2.3883
+            }
+          ]
+        },
+        {
+          "name": "Forbidden Rite of Soul Sacrifice",
+          "count": 91,
+          "percent": 1.1372,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 90,
+              "percent": 1.5146
+            },
+            {
+              "name": "Saboteur",
+              "count": 2,
+              "percent": 0.289
+            }
+          ]
+        },
+        {
+          "name": "Penance Brand of Dissipation",
+          "count": 90,
+          "percent": 1.1247,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 91,
+              "percent": 1.5315
+            }
+          ]
+        },
+        {
+          "name": "Cobra Lash",
+          "count": 80,
+          "percent": 0.9998,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 65,
+              "percent": 1.0939
+            },
+            {
+              "name": "Trickster",
+              "count": 6,
+              "percent": 0.4622
+            },
+            {
+              "name": "Saboteur",
+              "count": 2,
+              "percent": 0.289
+            }
+          ]
+        },
+        {
+          "name": "Vaal Lightning Strike",
+          "count": 77,
+          "percent": 0.9623,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 58,
+              "percent": 0.9761
+            },
+            {
+              "name": "Trickster",
+              "count": 19,
+              "percent": 1.4638
+            }
+          ]
+        },
+        {
+          "name": "Raise Spectre",
+          "count": 73,
+          "percent": 0.9123,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 69,
+              "percent": 1.1612
+            },
+            {
+              "name": "Trickster",
+              "count": 3,
+              "percent": 0.2311
+            },
+            {
+              "name": "Saboteur",
+              "count": 3,
+              "percent": 0.4335
+            }
+          ]
+        },
+        {
+          "name": "Spark of the Nova",
+          "count": 73,
+          "percent": 0.9123,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 62,
+              "percent": 1.0434
+            },
+            {
+              "name": "Trickster",
+              "count": 6,
+              "percent": 0.4622
+            },
+            {
+              "name": "Saboteur",
+              "count": 5,
+              "percent": 0.7225
+            }
+          ]
+        },
+        {
+          "name": "Soulrend of Reaping",
+          "count": 64,
+          "percent": 0.7998,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 52,
+              "percent": 0.8751
+            },
+            {
+              "name": "Trickster",
+              "count": 2,
+              "percent": 0.1541
+            },
+            {
+              "name": "Saboteur",
+              "count": 10,
+              "percent": 1.4451
+            }
+          ]
+        },
+        {
+          "name": "Vaal Arc",
+          "count": 61,
+          "percent": 0.7623,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 59,
+              "percent": 0.9929
+            },
+            {
+              "name": "Trickster",
+              "count": 1,
+              "percent": 0.077
+            }
+          ]
+        },
+        {
+          "name": "Freezing Pulse",
+          "count": 61,
+          "percent": 0.7623,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 47,
+              "percent": 0.791
+            },
+            {
+              "name": "Trickster",
+              "count": 6,
+              "percent": 0.4622
+            },
+            {
+              "name": "Saboteur",
+              "count": 8,
+              "percent": 1.1561
+            }
+          ]
+        },
+        {
+          "name": "Ethereal Knives of the Massacre",
+          "count": 51,
+          "percent": 0.6373,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 51,
+              "percent": 0.8583
+            },
+            {
+              "name": "Saboteur",
+              "count": 1,
+              "percent": 0.1445
+            }
+          ]
+        },
+        {
+          "name": "Barrage of Volley Fire",
+          "count": 39,
+          "percent": 0.4874,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 39,
+              "percent": 0.6563
+            }
+          ]
+        },
+        {
+          "name": "Animate Guardian",
+          "count": 38,
+          "percent": 0.4749,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 34,
+              "percent": 0.5722
+            },
+            {
+              "name": "Trickster",
+              "count": 4,
+              "percent": 0.3082
+            }
+          ]
+        },
+        {
+          "name": "Blight of Contagion",
+          "count": 38,
+          "percent": 0.4749,
+          "ascendancies": [
+            {
+              "name": "Trickster",
+              "count": 38,
+              "percent": 2.9276
+            }
+          ]
+        },
+        {
+          "name": "Wave of Conviction of Trarthus",
+          "count": 37,
+          "percent": 0.4624,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 17,
+              "percent": 0.2861
+            },
+            {
+              "name": "Trickster",
+              "count": 18,
+              "percent": 1.3867
+            },
+            {
+              "name": "Saboteur",
+              "count": 2,
+              "percent": 0.289
+            }
+          ]
+        },
+        {
+          "name": "Dual Strike of Ambidexterity",
+          "count": 36,
+          "percent": 0.4499,
+          "ascendancies": [
+            {
+              "name": "Trickster",
+              "count": 32,
+              "percent": 2.4653
+            }
+          ]
+        },
+        {
+          "name": "Discharge of Misery",
+          "count": 35,
+          "percent": 0.4374,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 27,
+              "percent": 0.4544
+            },
+            {
+              "name": "Saboteur",
+              "count": 8,
+              "percent": 1.1561
+            }
+          ]
+        },
+        {
+          "name": "Fire Trap of Blasting",
+          "count": 35,
+          "percent": 0.4374,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 1,
+              "percent": 0.0168
+            },
+            {
+              "name": "Saboteur",
+              "count": 32,
+              "percent": 4.6243
+            }
+          ]
+        },
+        {
+          "name": "Blade Vortex",
+          "count": 35,
+          "percent": 0.4374,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 24,
+              "percent": 0.4039
+            },
+            {
+              "name": "Trickster",
+              "count": 4,
+              "percent": 0.3082
+            },
+            {
+              "name": "Saboteur",
+              "count": 7,
+              "percent": 1.0116
+            }
+          ]
+        },
+        {
+          "name": "Viper Strike",
+          "count": 35,
+          "percent": 0.4374,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 33,
+              "percent": 0.5554
+            },
+            {
+              "name": "Trickster",
+              "count": 2,
+              "percent": 0.1541
+            }
+          ]
+        },
+        {
+          "name": "Ice Trap of Hollowness",
+          "count": 34,
+          "percent": 0.4249,
+          "ascendancies": [
+            {
+              "name": "Trickster",
+              "count": 25,
+              "percent": 1.926
+            },
+            {
+              "name": "Saboteur",
+              "count": 6,
+              "percent": 0.8671
+            }
+          ]
+        },
+        {
+          "name": "Cold Snap of Power",
+          "count": 32,
+          "percent": 0.3999,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 32,
+              "percent": 0.5385
+            }
+          ]
+        },
+        {
+          "name": "Cyclone of Tumult",
+          "count": 30,
+          "percent": 0.3749,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 26,
+              "percent": 0.4376
+            },
+            {
+              "name": "Trickster",
+              "count": 3,
+              "percent": 0.2311
+            },
+            {
+              "name": "Saboteur",
+              "count": 2,
+              "percent": 0.289
+            }
+          ]
+        },
+        {
+          "name": "Eye of Winter",
+          "count": 30,
+          "percent": 0.3749,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 28,
+              "percent": 0.4712
+            },
+            {
+              "name": "Trickster",
+              "count": 4,
+              "percent": 0.3082
+            }
+          ]
+        },
+        {
+          "name": "Icicle Mine",
+          "count": 29,
+          "percent": 0.3624,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 26,
+              "percent": 0.4376
+            },
+            {
+              "name": "Trickster",
+              "count": 1,
+              "percent": 0.077
+            },
+            {
+              "name": "Saboteur",
+              "count": 2,
+              "percent": 0.289
+            }
+          ]
+        },
+        {
+          "name": "Rain of Arrows of Saturation",
+          "count": 28,
+          "percent": 0.3499,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 24,
+              "percent": 0.4039
+            },
+            {
+              "name": "Saboteur",
+              "count": 3,
+              "percent": 0.4335
+            }
+          ]
+        },
+        {
+          "name": "Kinetic Bolt of Fragmentation",
+          "count": 25,
+          "percent": 0.3124,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 25,
+              "percent": 0.4207
+            }
+          ]
+        },
+        {
+          "name": "Pyroclast Mine",
+          "count": 25,
+          "percent": 0.3124,
+          "ascendancies": [
+            {
+              "name": "Assassin",
+              "count": 4,
+              "percent": 0.0673
+            },
+            {
+              "name": "Trickster",
+              "count": 13,
+              "percent": 1.0015
+            },
+            {
+              "name": "Saboteur",
+              "count": 12,
+              "percent": 1.7341
+            }
+          ]
+        }
+      ]
+    },
+    "Templar": {
+      "total": 22148,
+      "skills": [
+        {
+          "name": "Storm Burst of Repulsion",
+          "count": 5154,
+          "percent": 23.2707,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 22,
+              "percent": 0.98
+            },
+            {
+              "name": "Hierophant",
+              "count": 5131,
+              "percent": 41.872
+            }
+          ]
+        },
+        {
+          "name": "Static Strike",
+          "count": 3760,
+          "percent": 16.9767,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 27,
+              "percent": 1.2027
+            },
+            {
+              "name": "Guardian",
+              "count": 3720,
+              "percent": 49.1998
+            }
+          ]
+        },
+        {
+          "name": "Shockwave",
+          "count": 2241,
+          "percent": 10.1183,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 17,
+              "percent": 0.7572
+            },
+            {
+              "name": "Guardian",
+              "count": 2222,
+              "percent": 29.3876
+            }
+          ]
+        },
+        {
+          "name": "Dominating Blow of Inspiring",
+          "count": 1696,
+          "percent": 7.6576,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 5,
+              "percent": 0.2227
+            },
+            {
+              "name": "Guardian",
+              "count": 1691,
+              "percent": 22.3648
+            }
+          ]
+        },
+        {
+          "name": "Kinetic Fusillade",
+          "count": 1175,
+          "percent": 5.3052,
+          "ascendancies": [
+            {
+              "name": "Hierophant",
+              "count": 1169,
+              "percent": 9.5397
+            }
+          ]
+        },
+        {
+          "name": "Explosive Arrow",
+          "count": 1119,
+          "percent": 5.0524,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 7,
+              "percent": 0.3118
+            },
+            {
+              "name": "Hierophant",
+              "count": 1109,
+              "percent": 9.0501
+            }
+          ]
+        },
+        {
+          "name": "Storm Burst",
+          "count": 945,
+          "percent": 4.2668,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 8,
+              "percent": 0.3563
+            },
+            {
+              "name": "Hierophant",
+              "count": 934,
+              "percent": 7.622
+            }
+          ]
+        },
+        {
+          "name": "Frenzy",
+          "count": 895,
+          "percent": 4.041,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 3,
+              "percent": 0.1336
+            },
+            {
+              "name": "Hierophant",
+              "count": 896,
+              "percent": 7.3119
+            }
+          ]
+        },
+        {
+          "name": "Absolution",
+          "count": 812,
+          "percent": 3.6662,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 2,
+              "percent": 0.0891
+            },
+            {
+              "name": "Guardian",
+              "count": 807,
+              "percent": 10.6732
+            }
+          ]
+        },
+        {
+          "name": "Vaal Absolution",
+          "count": 779,
+          "percent": 3.5172,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 1,
+              "percent": 0.0445
+            },
+            {
+              "name": "Guardian",
+              "count": 777,
+              "percent": 10.2764
+            }
+          ]
+        },
+        {
+          "name": "Lightning Tendrils of Escalation",
+          "count": 662,
+          "percent": 2.989,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 401,
+              "percent": 17.8619
+            },
+            {
+              "name": "Hierophant",
+              "count": 260,
+              "percent": 2.1218
+            }
+          ]
+        },
+        {
+          "name": "Hexblast of Contradiction",
+          "count": 579,
+          "percent": 2.6142,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 9,
+              "percent": 0.4009
+            },
+            {
+              "name": "Hierophant",
+              "count": 565,
+              "percent": 4.6107
+            },
+            {
+              "name": "Guardian",
+              "count": 15,
+              "percent": 0.1984
+            }
+          ]
+        },
+        {
+          "name": "Lightning Tendrils of Eccentricity",
+          "count": 524,
+          "percent": 2.3659,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 376,
+              "percent": 16.7483
+            },
+            {
+              "name": "Hierophant",
+              "count": 146,
+              "percent": 1.1914
+            }
+          ]
+        },
+        {
+          "name": "Static Strike of Gathering Lightning",
+          "count": 477,
+          "percent": 2.1537,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 1,
+              "percent": 0.0445
+            },
+            {
+              "name": "Guardian",
+              "count": 475,
+              "percent": 6.2822
+            }
+          ]
+        },
+        {
+          "name": "Shock Nova of Procession",
+          "count": 369,
+          "percent": 1.6661,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 72,
+              "percent": 3.2071
+            },
+            {
+              "name": "Hierophant",
+              "count": 297,
+              "percent": 2.4237
+            }
+          ]
+        },
+        {
+          "name": "Dash",
+          "count": 297,
+          "percent": 1.341,
+          "ascendancies": [
+            {
+              "name": "Hierophant",
+              "count": 297,
+              "percent": 2.4237
+            }
+          ]
+        },
+        {
+          "name": "Summon Raging Spirit",
+          "count": 294,
+          "percent": 1.3274,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 2,
+              "percent": 0.0891
+            },
+            {
+              "name": "Guardian",
+              "count": 286,
+              "percent": 3.7826
+            }
+          ]
+        },
+        {
+          "name": "Kinetic Blast of Clustering",
+          "count": 273,
+          "percent": 1.2326,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 12,
+              "percent": 0.5345
+            },
+            {
+              "name": "Hierophant",
+              "count": 264,
+              "percent": 2.1544
+            }
+          ]
+        },
+        {
+          "name": "Spark of the Nova",
+          "count": 267,
+          "percent": 1.2055,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 149,
+              "percent": 6.637
+            },
+            {
+              "name": "Hierophant",
+              "count": 117,
+              "percent": 0.9548
+            }
+          ]
+        },
+        {
+          "name": "Raise Spectre",
+          "count": 264,
+          "percent": 1.192,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 15,
+              "percent": 0.6682
+            },
+            {
+              "name": "Hierophant",
+              "count": 42,
+              "percent": 0.3427
+            },
+            {
+              "name": "Guardian",
+              "count": 215,
+              "percent": 2.8435
+            }
+          ]
+        },
+        {
+          "name": "Void Shockwave",
+          "count": 264,
+          "percent": 1.192,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 9,
+              "percent": 0.4009
+            },
+            {
+              "name": "Hierophant",
+              "count": 1,
+              "percent": 0.0082
+            },
+            {
+              "name": "Guardian",
+              "count": 260,
+              "percent": 3.4387
+            }
+          ]
+        },
+        {
+          "name": "Penance Brand of Dissipation",
+          "count": 237,
+          "percent": 1.0701,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 222,
+              "percent": 9.8886
+            },
+            {
+              "name": "Hierophant",
+              "count": 18,
+              "percent": 0.1469
+            }
+          ]
+        },
+        {
+          "name": "Freezing Pulse",
+          "count": 228,
+          "percent": 1.0294,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 1,
+              "percent": 0.0445
+            },
+            {
+              "name": "Hierophant",
+              "count": 224,
+              "percent": 1.828
+            }
+          ]
+        },
+        {
+          "name": "Ice Nova of Frostbolts",
+          "count": 222,
+          "percent": 1.0023,
+          "ascendancies": [
+            {
+              "name": "Hierophant",
+              "count": 228,
+              "percent": 1.8606
+            }
+          ]
+        },
+        {
+          "name": "Animate Guardian",
+          "count": 189,
+          "percent": 0.8534,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 21,
+              "percent": 0.9354
+            },
+            {
+              "name": "Hierophant",
+              "count": 25,
+              "percent": 0.204
+            },
+            {
+              "name": "Guardian",
+              "count": 149,
+              "percent": 1.9706
+            }
+          ]
+        },
+        {
+          "name": "Crackling Lance",
+          "count": 187,
+          "percent": 0.8443,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 21,
+              "percent": 0.9354
+            },
+            {
+              "name": "Hierophant",
+              "count": 165,
+              "percent": 1.3465
+            }
+          ]
+        },
+        {
+          "name": "Tornado of Elemental Turbulence",
+          "count": 171,
+          "percent": 0.7721,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 179,
+              "percent": 7.9733
+            },
+            {
+              "name": "Guardian",
+              "count": 1,
+              "percent": 0.0132
+            }
+          ]
+        },
+        {
+          "name": "Lightning Warp",
+          "count": 158,
+          "percent": 0.7134,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 3,
+              "percent": 0.1336
+            },
+            {
+              "name": "Hierophant",
+              "count": 155,
+              "percent": 1.2649
+            }
+          ]
+        },
+        {
+          "name": "Lightning Tendrils",
+          "count": 150,
+          "percent": 0.6773,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 34,
+              "percent": 1.5145
+            },
+            {
+              "name": "Hierophant",
+              "count": 115,
+              "percent": 0.9385
+            }
+          ]
+        },
+        {
+          "name": "Shrapnel Ballista",
+          "count": 148,
+          "percent": 0.6682,
+          "ascendancies": [
+            {
+              "name": "Hierophant",
+              "count": 148,
+              "percent": 1.2078
+            }
+          ]
+        },
+        {
+          "name": "Voltaxic Burst",
+          "count": 139,
+          "percent": 0.6276,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 10,
+              "percent": 0.4454
+            },
+            {
+              "name": "Hierophant",
+              "count": 134,
+              "percent": 1.0935
+            }
+          ]
+        },
+        {
+          "name": "Arc of Oscillating",
+          "count": 135,
+          "percent": 0.6095,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 39,
+              "percent": 1.7372
+            },
+            {
+              "name": "Hierophant",
+              "count": 97,
+              "percent": 0.7916
+            }
+          ]
+        },
+        {
+          "name": "Holy Flame Totem",
+          "count": 132,
+          "percent": 0.596,
+          "ascendancies": [
+            {
+              "name": "Hierophant",
+              "count": 127,
+              "percent": 1.0364
+            }
+          ]
+        },
+        {
+          "name": "Frostblink of Wintry Blast",
+          "count": 126,
+          "percent": 0.5689,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 8,
+              "percent": 0.3563
+            },
+            {
+              "name": "Hierophant",
+              "count": 119,
+              "percent": 0.9711
+            }
+          ]
+        },
+        {
+          "name": "Vaal Domination",
+          "count": 118,
+          "percent": 0.5328,
+          "ascendancies": [
+            {
+              "name": "Guardian",
+              "count": 118,
+              "percent": 1.5606
+            }
+          ]
+        },
+        {
+          "name": "Temporal Chains",
+          "count": 114,
+          "percent": 0.5147,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 4,
+              "percent": 0.1782
+            },
+            {
+              "name": "Hierophant",
+              "count": 107,
+              "percent": 0.8732
+            }
+          ]
+        },
+        {
+          "name": "Shockwave Totem",
+          "count": 108,
+          "percent": 0.4876,
+          "ascendancies": [
+            {
+              "name": "Hierophant",
+              "count": 109,
+              "percent": 0.8895
+            }
+          ]
+        },
+        {
+          "name": "Rejuvenation Totem",
+          "count": 93,
+          "percent": 0.4199,
+          "ascendancies": [
+            {
+              "name": "Hierophant",
+              "count": 95,
+              "percent": 0.7753
+            }
+          ]
+        },
+        {
+          "name": "Smite of Divine Judgement",
+          "count": 90,
+          "percent": 0.4064,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 89,
+              "percent": 3.9644
+            }
+          ]
+        },
+        {
+          "name": "Scorching Ray of Immolation",
+          "count": 89,
+          "percent": 0.4018,
+          "ascendancies": [
+            {
+              "name": "Hierophant",
+              "count": 87,
+              "percent": 0.71
+            }
+          ]
+        },
+        {
+          "name": "Summon Raging Spirit of Enormity",
+          "count": 80,
+          "percent": 0.3612,
+          "ascendancies": [
+            {
+              "name": "Guardian",
+              "count": 86,
+              "percent": 1.1374
+            }
+          ]
+        },
+        {
+          "name": "Ethereal Knives of the Massacre",
+          "count": 75,
+          "percent": 0.3386,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 44,
+              "percent": 1.9599
+            },
+            {
+              "name": "Hierophant",
+              "count": 20,
+              "percent": 0.1632
+            },
+            {
+              "name": "Guardian",
+              "count": 11,
+              "percent": 0.1455
+            }
+          ]
+        },
+        {
+          "name": "Ball Lightning of Orbiting",
+          "count": 68,
+          "percent": 0.307,
+          "ascendancies": [
+            {
+              "name": "Inquisitor",
+              "count": 4,
+              "percent": 0.1782
+            },
+            {
+              "name": "Hierophant",
+              "count": 70,
+              "percent": 0.5712
+            }
+          ]
+        }
+      ]
+    },
+    "Witch": {
+      "total": 35512,
+      "skills": [
+        {
+          "name": "Animate Weapon of Ranged Arms",
+          "count": 4225,
+          "percent": 11.8974,
+          "ascendancies": [
+            {
+              "name": "Necromancer",
+              "count": 4223,
+              "percent": 25.9957
+            }
+          ]
+        },
+        {
+          "name": "Lightning Tendrils of Eccentricity",
+          "count": 3172,
+          "percent": 8.9322,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 7,
+              "percent": 0.1745
+            },
+            {
+              "name": "Elementalist",
+              "count": 3161,
+              "percent": 20.9365
+            }
+          ]
+        },
+        {
+          "name": "Raise Spectre",
+          "count": 3105,
+          "percent": 8.7435,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 16,
+              "percent": 0.3989
+            },
+            {
+              "name": "Elementalist",
+              "count": 41,
+              "percent": 0.2716
+            },
+            {
+              "name": "Necromancer",
+              "count": 3044,
+              "percent": 18.7381
+            }
+          ]
+        },
+        {
+          "name": "Animate Guardian",
+          "count": 2836,
+          "percent": 7.986,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 13,
+              "percent": 0.3241
+            },
+            {
+              "name": "Elementalist",
+              "count": 22,
+              "percent": 0.1457
+            },
+            {
+              "name": "Necromancer",
+              "count": 2799,
+              "percent": 17.2299
+            }
+          ]
+        },
+        {
+          "name": "Kinetic Blast of Clustering",
+          "count": 2570,
+          "percent": 7.237,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 90,
+              "percent": 2.2438
+            },
+            {
+              "name": "Necromancer",
+              "count": 2469,
+              "percent": 15.1985
+            }
+          ]
+        },
+        {
+          "name": "Penance Brand",
+          "count": 1859,
+          "percent": 5.2349,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 1,
+              "percent": 0.0249
+            },
+            {
+              "name": "Elementalist",
+              "count": 1856,
+              "percent": 12.293
+            }
+          ]
+        },
+        {
+          "name": "Ethereal Knives of the Massacre",
+          "count": 1818,
+          "percent": 5.1194,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 4,
+              "percent": 0.0997
+            },
+            {
+              "name": "Elementalist",
+              "count": 1814,
+              "percent": 12.0148
+            }
+          ]
+        },
+        {
+          "name": "Corrupting Fever",
+          "count": 1536,
+          "percent": 4.3253,
+          "ascendancies": [
+            {
+              "name": "Elementalist",
+              "count": 1536,
+              "percent": 10.1735
+            }
+          ]
+        },
+        {
+          "name": "Vaal Reap",
+          "count": 1510,
+          "percent": 4.2521,
+          "ascendancies": [
+            {
+              "name": "Elementalist",
+              "count": 1510,
+              "percent": 10.0013
+            }
+          ]
+        },
+        {
+          "name": "Summon Holy Relic of Conviction",
+          "count": 1352,
+          "percent": 3.8072,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 11,
+              "percent": 0.2742
+            },
+            {
+              "name": "Necromancer",
+              "count": 1339,
+              "percent": 8.2425
+            }
+          ]
+        },
+        {
+          "name": "Incinerate of Venting",
+          "count": 1111,
+          "percent": 3.1285,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 2,
+              "percent": 0.0499
+            },
+            {
+              "name": "Elementalist",
+              "count": 1104,
+              "percent": 7.3122
+            },
+            {
+              "name": "Necromancer",
+              "count": 1,
+              "percent": 0.0062
+            }
+          ]
+        },
+        {
+          "name": "Essence Drain",
+          "count": 869,
+          "percent": 2.4471,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 869,
+              "percent": 21.6654
+            }
+          ]
+        },
+        {
+          "name": "Reap",
+          "count": 862,
+          "percent": 2.4273,
+          "ascendancies": [
+            {
+              "name": "Elementalist",
+              "count": 862,
+              "percent": 5.7094
+            }
+          ]
+        },
+        {
+          "name": "Ethereal Knives",
+          "count": 818,
+          "percent": 2.3034,
+          "ascendancies": [
+            {
+              "name": "Elementalist",
+              "count": 822,
+              "percent": 5.4444
+            }
+          ]
+        },
+        {
+          "name": "Death Aura",
+          "count": 801,
+          "percent": 2.2556,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 790,
+              "percent": 19.6958
+            },
+            {
+              "name": "Necromancer",
+              "count": 1,
+              "percent": 0.0062
+            }
+          ]
+        },
+        {
+          "name": "Reap of Butchery",
+          "count": 750,
+          "percent": 2.112,
+          "ascendancies": [
+            {
+              "name": "Elementalist",
+              "count": 750,
+              "percent": 4.9675
+            }
+          ]
+        },
+        {
+          "name": "Blight of Contagion",
+          "count": 740,
+          "percent": 2.0838,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 738,
+              "percent": 18.3994
+            }
+          ]
+        },
+        {
+          "name": "Summon Raging Spirit",
+          "count": 656,
+          "percent": 1.8473,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 5,
+              "percent": 0.1247
+            },
+            {
+              "name": "Elementalist",
+              "count": 1,
+              "percent": 0.0066
+            },
+            {
+              "name": "Necromancer",
+              "count": 641,
+              "percent": 3.9458
+            }
+          ]
+        },
+        {
+          "name": "Winter Orb",
+          "count": 481,
+          "percent": 1.3545,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 242,
+              "percent": 6.0334
+            },
+            {
+              "name": "Elementalist",
+              "count": 237,
+              "percent": 1.5697
+            },
+            {
+              "name": "Necromancer",
+              "count": 1,
+              "percent": 0.0062
+            }
+          ]
+        },
+        {
+          "name": "Lightning Tendrils",
+          "count": 467,
+          "percent": 1.315,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 6,
+              "percent": 0.1496
+            },
+            {
+              "name": "Elementalist",
+              "count": 458,
+              "percent": 3.0335
+            }
+          ]
+        },
+        {
+          "name": "Cold Snap",
+          "count": 426,
+          "percent": 1.1996,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 118,
+              "percent": 2.9419
+            },
+            {
+              "name": "Elementalist",
+              "count": 306,
+              "percent": 2.0268
+            }
+          ]
+        },
+        {
+          "name": "Vaal Cold Snap",
+          "count": 389,
+          "percent": 1.0954,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 105,
+              "percent": 2.6178
+            },
+            {
+              "name": "Elementalist",
+              "count": 283,
+              "percent": 1.8744
+            }
+          ]
+        },
+        {
+          "name": "Blight",
+          "count": 386,
+          "percent": 1.087,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 384,
+              "percent": 9.5737
+            }
+          ]
+        },
+        {
+          "name": "Vaal Animate Weapon",
+          "count": 373,
+          "percent": 1.0503,
+          "ascendancies": [
+            {
+              "name": "Elementalist",
+              "count": 1,
+              "percent": 0.0066
+            },
+            {
+              "name": "Necromancer",
+              "count": 372,
+              "percent": 2.2899
+            }
+          ]
+        },
+        {
+          "name": "Glacial Cascade of the Fissure",
+          "count": 359,
+          "percent": 1.0109,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 7,
+              "percent": 0.1745
+            },
+            {
+              "name": "Elementalist",
+              "count": 352,
+              "percent": 2.3314
+            }
+          ]
+        },
+        {
+          "name": "Doom Blast",
+          "count": 349,
+          "percent": 0.9828,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 250,
+              "percent": 6.2329
+            },
+            {
+              "name": "Elementalist",
+              "count": 96,
+              "percent": 0.6358
+            },
+            {
+              "name": "Necromancer",
+              "count": 2,
+              "percent": 0.0123
+            }
+          ]
+        },
+        {
+          "name": "Temporal Chains",
+          "count": 335,
+          "percent": 0.9433,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 274,
+              "percent": 6.8312
+            },
+            {
+              "name": "Elementalist",
+              "count": 58,
+              "percent": 0.3842
+            }
+          ]
+        },
+        {
+          "name": "Absolution",
+          "count": 335,
+          "percent": 0.9433,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 2,
+              "percent": 0.0499
+            },
+            {
+              "name": "Elementalist",
+              "count": 1,
+              "percent": 0.0066
+            },
+            {
+              "name": "Necromancer",
+              "count": 312,
+              "percent": 1.9206
+            }
+          ]
+        },
+        {
+          "name": "Eviscerate",
+          "count": 322,
+          "percent": 0.9067,
+          "ascendancies": [
+            {
+              "name": "Elementalist",
+              "count": 322,
+              "percent": 2.1327
+            }
+          ]
+        },
+        {
+          "name": "Wintertide Brand",
+          "count": 320,
+          "percent": 0.9011,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 72,
+              "percent": 1.7951
+            },
+            {
+              "name": "Elementalist",
+              "count": 247,
+              "percent": 1.636
+            }
+          ]
+        },
+        {
+          "name": "Vortex",
+          "count": 314,
+          "percent": 0.8842,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 74,
+              "percent": 1.8449
+            },
+            {
+              "name": "Elementalist",
+              "count": 239,
+              "percent": 1.583
+            }
+          ]
+        },
+        {
+          "name": "Death Wish",
+          "count": 302,
+          "percent": 0.8504,
+          "ascendancies": [
+            {
+              "name": "Elementalist",
+              "count": 305,
+              "percent": 2.0201
+            }
+          ]
+        },
+        {
+          "name": "Kinetic Blast",
+          "count": 286,
+          "percent": 0.8054,
+          "ascendancies": [
+            {
+              "name": "Elementalist",
+              "count": 264,
+              "percent": 1.7486
+            },
+            {
+              "name": "Necromancer",
+              "count": 17,
+              "percent": 0.1046
+            }
+          ]
+        },
+        {
+          "name": "Forbidden Rite of Soul Sacrifice",
+          "count": 261,
+          "percent": 0.735,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 260,
+              "percent": 6.4822
+            }
+          ]
+        },
+        {
+          "name": "Cyclone",
+          "count": 250,
+          "percent": 0.704,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 228,
+              "percent": 5.6844
+            },
+            {
+              "name": "Elementalist",
+              "count": 23,
+              "percent": 0.1523
+            },
+            {
+              "name": "Necromancer",
+              "count": 1,
+              "percent": 0.0062
+            }
+          ]
+        },
+        {
+          "name": "Soulrend",
+          "count": 245,
+          "percent": 0.6899,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 245,
+              "percent": 6.1082
+            }
+          ]
+        },
+        {
+          "name": "Hexblast of Contradiction",
+          "count": 206,
+          "percent": 0.5801,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 14,
+              "percent": 0.349
+            },
+            {
+              "name": "Elementalist",
+              "count": 192,
+              "percent": 1.2717
+            }
+          ]
+        },
+        {
+          "name": "Frostblink of Wintry Blast",
+          "count": 201,
+          "percent": 0.566,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 15,
+              "percent": 0.374
+            },
+            {
+              "name": "Elementalist",
+              "count": 183,
+              "percent": 1.2121
+            }
+          ]
+        },
+        {
+          "name": "Vaal Ice Nova",
+          "count": 200,
+          "percent": 0.5632,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 139,
+              "percent": 3.4655
+            },
+            {
+              "name": "Elementalist",
+              "count": 66,
+              "percent": 0.4371
+            },
+            {
+              "name": "Necromancer",
+              "count": 1,
+              "percent": 0.0062
+            }
+          ]
+        },
+        {
+          "name": "Creeping Frost of Floes",
+          "count": 193,
+          "percent": 0.5435,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 49,
+              "percent": 1.2216
+            },
+            {
+              "name": "Elementalist",
+              "count": 144,
+              "percent": 0.9538
+            }
+          ]
+        },
+        {
+          "name": "Vaal Absolution",
+          "count": 192,
+          "percent": 0.5407,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 2,
+              "percent": 0.0499
+            },
+            {
+              "name": "Necromancer",
+              "count": 185,
+              "percent": 1.1388
+            }
+          ]
+        },
+        {
+          "name": "Ice Nova of Frostbolts",
+          "count": 179,
+          "percent": 0.5041,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 182,
+              "percent": 4.5375
+            }
+          ]
+        },
+        {
+          "name": "Vaal Blight",
+          "count": 177,
+          "percent": 0.4984,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 177,
+              "percent": 4.4129
+            }
+          ]
+        },
+        {
+          "name": "Summon Stone Golem",
+          "count": 167,
+          "percent": 0.4703,
+          "ascendancies": [
+            {
+              "name": "Necromancer",
+              "count": 165,
+              "percent": 1.0157
+            }
+          ]
+        },
+        {
+          "name": "Animate Guardian of Smiting",
+          "count": 159,
+          "percent": 0.4477,
+          "ascendancies": [
+            {
+              "name": "Necromancer",
+              "count": 159,
+              "percent": 0.9788
+            }
+          ]
+        },
+        {
+          "name": "Summon Carrion Golem of Scavenging",
+          "count": 141,
+          "percent": 0.397,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 5,
+              "percent": 0.1247
+            },
+            {
+              "name": "Elementalist",
+              "count": 24,
+              "percent": 0.159
+            },
+            {
+              "name": "Necromancer",
+              "count": 114,
+              "percent": 0.7018
+            }
+          ]
+        },
+        {
+          "name": "Raise Zombie",
+          "count": 130,
+          "percent": 0.3661,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 1,
+              "percent": 0.0249
+            },
+            {
+              "name": "Necromancer",
+              "count": 127,
+              "percent": 0.7818
+            }
+          ]
+        },
+        {
+          "name": "Storm Burst",
+          "count": 128,
+          "percent": 0.3604,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 124,
+              "percent": 3.0915
+            }
+          ]
+        },
+        {
+          "name": "Explosive Arrow",
+          "count": 125,
+          "percent": 0.352,
+          "ascendancies": [
+            {
+              "name": "Elementalist",
+              "count": 125,
+              "percent": 0.8279
+            }
+          ]
+        },
+        {
+          "name": "Summon Flame Golem of Hordes",
+          "count": 124,
+          "percent": 0.3492,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 13,
+              "percent": 0.3241
+            },
+            {
+              "name": "Elementalist",
+              "count": 112,
+              "percent": 0.7418
+            }
+          ]
+        },
+        {
+          "name": "Lightning Tendrils of Escalation",
+          "count": 123,
+          "percent": 0.3464,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 6,
+              "percent": 0.1496
+            },
+            {
+              "name": "Elementalist",
+              "count": 116,
+              "percent": 0.7683
+            }
+          ]
+        },
+        {
+          "name": "Flammability",
+          "count": 118,
+          "percent": 0.3323,
+          "ascendancies": [
+            {
+              "name": "Elementalist",
+              "count": 116,
+              "percent": 0.7683
+            }
+          ]
+        },
+        {
+          "name": "Bane",
+          "count": 117,
+          "percent": 0.3295,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 80,
+              "percent": 1.9945
+            },
+            {
+              "name": "Elementalist",
+              "count": 36,
+              "percent": 0.2384
+            }
+          ]
+        },
+        {
+          "name": "Scorching Ray",
+          "count": 115,
+          "percent": 0.3238,
+          "ascendancies": [
+            {
+              "name": "Occultist",
+              "count": 1,
+              "percent": 0.0249
+            },
+            {
+              "name": "Elementalist",
+              "count": 109,
+              "percent": 0.7219
+            }
+          ]
+        }
+      ]
+    },
+    "Scion": {
+      "total": 11431,
+      "skills": [
+        {
+          "name": "Animate Guardian",
+          "count": 1375,
+          "percent": 12.0287,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 8,
+              "percent": 0.9768
+            },
+            {
+              "name": "Reliquarian",
+              "count": 22,
+              "percent": 0.5567
+            },
+            {
+              "name": "Luminary",
+              "count": 1345,
+              "percent": 20.4501
+            }
+          ]
+        },
+        {
+          "name": "Static Strike",
+          "count": 731,
+          "percent": 6.3949,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 5,
+              "percent": 0.6105
+            },
+            {
+              "name": "Reliquarian",
+              "count": 647,
+              "percent": 16.3715
+            },
+            {
+              "name": "Luminary",
+              "count": 63,
+              "percent": 0.9579
+            }
+          ]
+        },
+        {
+          "name": "Earthshatter",
+          "count": 551,
+          "percent": 4.8202,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 53,
+              "percent": 6.4713
+            },
+            {
+              "name": "Reliquarian",
+              "count": 2,
+              "percent": 0.0506
+            },
+            {
+              "name": "Luminary",
+              "count": 493,
+              "percent": 7.4958
+            }
+          ]
+        },
+        {
+          "name": "Raise Spectre",
+          "count": 422,
+          "percent": 3.6917,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 15,
+              "percent": 1.8315
+            },
+            {
+              "name": "Reliquarian",
+              "count": 32,
+              "percent": 0.8097
+            },
+            {
+              "name": "Luminary",
+              "count": 373,
+              "percent": 5.6713
+            }
+          ]
+        },
+        {
+          "name": "Smite",
+          "count": 417,
+          "percent": 3.648,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 69,
+              "percent": 8.4249
+            },
+            {
+              "name": "Reliquarian",
+              "count": 14,
+              "percent": 0.3543
+            },
+            {
+              "name": "Luminary",
+              "count": 334,
+              "percent": 5.0783
+            }
+          ]
+        },
+        {
+          "name": "Divine Retribution",
+          "count": 349,
+          "percent": 3.0531,
+          "ascendancies": [
+            {
+              "name": "Reliquarian",
+              "count": 349,
+              "percent": 8.831
+            }
+          ]
+        },
+        {
+          "name": "Smite of Divine Judgement",
+          "count": 313,
+          "percent": 2.7382,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 2,
+              "percent": 0.2442
+            },
+            {
+              "name": "Reliquarian",
+              "count": 308,
+              "percent": 7.7935
+            },
+            {
+              "name": "Luminary",
+              "count": 6,
+              "percent": 0.0912
+            }
+          ]
+        },
+        {
+          "name": "Void Shockwave",
+          "count": 298,
+          "percent": 2.6069,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 5,
+              "percent": 0.6105
+            },
+            {
+              "name": "Reliquarian",
+              "count": 289,
+              "percent": 7.3128
+            }
+          ]
+        },
+        {
+          "name": "Shockwave",
+          "count": 221,
+          "percent": 1.9333,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 4,
+              "percent": 0.4884
+            },
+            {
+              "name": "Reliquarian",
+              "count": 202,
+              "percent": 5.1113
+            },
+            {
+              "name": "Luminary",
+              "count": 7,
+              "percent": 0.1064
+            }
+          ]
+        },
+        {
+          "name": "Righteous Fire",
+          "count": 213,
+          "percent": 1.8634,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 39,
+              "percent": 4.7619
+            },
+            {
+              "name": "Reliquarian",
+              "count": 125,
+              "percent": 3.163
+            },
+            {
+              "name": "Luminary",
+              "count": 48,
+              "percent": 0.7298
+            }
+          ]
+        },
+        {
+          "name": "Cyclone",
+          "count": 173,
+          "percent": 1.5134,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 12,
+              "percent": 1.4652
+            },
+            {
+              "name": "Reliquarian",
+              "count": 139,
+              "percent": 3.5172
+            },
+            {
+              "name": "Luminary",
+              "count": 21,
+              "percent": 0.3193
+            }
+          ]
+        },
+        {
+          "name": "Absolution",
+          "count": 150,
+          "percent": 1.3122,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 3,
+              "percent": 0.3663
+            },
+            {
+              "name": "Reliquarian",
+              "count": 5,
+              "percent": 0.1265
+            },
+            {
+              "name": "Luminary",
+              "count": 137,
+              "percent": 2.083
+            }
+          ]
+        },
+        {
+          "name": "Spark of the Nova",
+          "count": 147,
+          "percent": 1.286,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 4,
+              "percent": 0.4884
+            },
+            {
+              "name": "Reliquarian",
+              "count": 6,
+              "percent": 0.1518
+            },
+            {
+              "name": "Luminary",
+              "count": 139,
+              "percent": 2.1134
+            }
+          ]
+        },
+        {
+          "name": "Herald of Agony",
+          "count": 121,
+          "percent": 1.0585,
+          "ascendancies": [
+            {
+              "name": "Reliquarian",
+              "count": 14,
+              "percent": 0.3543
+            },
+            {
+              "name": "Luminary",
+              "count": 107,
+              "percent": 1.6269
+            }
+          ]
+        },
+        {
+          "name": "Vaal Absolution",
+          "count": 120,
+          "percent": 1.0498,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 2,
+              "percent": 0.2442
+            },
+            {
+              "name": "Reliquarian",
+              "count": 2,
+              "percent": 0.0506
+            },
+            {
+              "name": "Luminary",
+              "count": 113,
+              "percent": 1.7181
+            }
+          ]
+        },
+        {
+          "name": "Freezing Pulse",
+          "count": 118,
+          "percent": 1.0323,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 5,
+              "percent": 0.6105
+            },
+            {
+              "name": "Reliquarian",
+              "count": 113,
+              "percent": 2.8593
+            }
+          ]
+        },
+        {
+          "name": "Shield Charge",
+          "count": 107,
+          "percent": 0.9361,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 1,
+              "percent": 0.1221
+            },
+            {
+              "name": "Reliquarian",
+              "count": 72,
+              "percent": 1.8219
+            },
+            {
+              "name": "Luminary",
+              "count": 34,
+              "percent": 0.517
+            }
+          ]
+        },
+        {
+          "name": "Eviscerate",
+          "count": 106,
+          "percent": 0.9273,
+          "ascendancies": [
+            {
+              "name": "Reliquarian",
+              "count": 106,
+              "percent": 2.6822
+            }
+          ]
+        },
+        {
+          "name": "Icicle Mine of Fanning",
+          "count": 97,
+          "percent": 0.8486,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 1,
+              "percent": 0.1221
+            },
+            {
+              "name": "Reliquarian",
+              "count": 94,
+              "percent": 2.3785
+            }
+          ]
+        },
+        {
+          "name": "Kinetic Blast of Clustering",
+          "count": 96,
+          "percent": 0.8398,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 1,
+              "percent": 0.1221
+            },
+            {
+              "name": "Reliquarian",
+              "count": 92,
+              "percent": 2.3279
+            },
+            {
+              "name": "Luminary",
+              "count": 1,
+              "percent": 0.0152
+            }
+          ]
+        },
+        {
+          "name": "Lightning Strike",
+          "count": 91,
+          "percent": 0.7961,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 3,
+              "percent": 0.3663
+            },
+            {
+              "name": "Reliquarian",
+              "count": 13,
+              "percent": 0.3289
+            },
+            {
+              "name": "Luminary",
+              "count": 78,
+              "percent": 1.186
+            }
+          ]
+        },
+        {
+          "name": "Wild Strike of Extremes",
+          "count": 88,
+          "percent": 0.7698,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 1,
+              "percent": 0.1221
+            },
+            {
+              "name": "Reliquarian",
+              "count": 87,
+              "percent": 2.2014
+            }
+          ]
+        },
+        {
+          "name": "Exsanguinate",
+          "count": 87,
+          "percent": 0.7611,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 3,
+              "percent": 0.3663
+            },
+            {
+              "name": "Reliquarian",
+              "count": 79,
+              "percent": 1.999
+            },
+            {
+              "name": "Luminary",
+              "count": 1,
+              "percent": 0.0152
+            }
+          ]
+        },
+        {
+          "name": "Pyroclast Mine",
+          "count": 86,
+          "percent": 0.7523,
+          "ascendancies": [
+            {
+              "name": "Reliquarian",
+              "count": 85,
+              "percent": 2.1508
+            }
+          ]
+        },
+        {
+          "name": "Fireball of Radiation",
+          "count": 80,
+          "percent": 0.6999,
+          "ascendancies": [
+            {
+              "name": "Reliquarian",
+              "count": 77,
+              "percent": 1.9484
+            }
+          ]
+        },
+        {
+          "name": "Cyclone of Tumult",
+          "count": 79,
+          "percent": 0.6911,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 10,
+              "percent": 1.221
+            },
+            {
+              "name": "Reliquarian",
+              "count": 70,
+              "percent": 1.7713
+            }
+          ]
+        },
+        {
+          "name": "Vaal Lightning Strike",
+          "count": 75,
+          "percent": 0.6561,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 1,
+              "percent": 0.1221
+            },
+            {
+              "name": "Reliquarian",
+              "count": 8,
+              "percent": 0.2024
+            },
+            {
+              "name": "Luminary",
+              "count": 66,
+              "percent": 1.0035
+            }
+          ]
+        },
+        {
+          "name": "Summon Raging Spirit",
+          "count": 75,
+          "percent": 0.6561,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 1,
+              "percent": 0.1221
+            },
+            {
+              "name": "Reliquarian",
+              "count": 52,
+              "percent": 1.3158
+            },
+            {
+              "name": "Luminary",
+              "count": 22,
+              "percent": 0.3345
+            }
+          ]
+        },
+        {
+          "name": "Vaal Smite",
+          "count": 73,
+          "percent": 0.6386,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 14,
+              "percent": 1.7094
+            },
+            {
+              "name": "Reliquarian",
+              "count": 14,
+              "percent": 0.3543
+            },
+            {
+              "name": "Luminary",
+              "count": 45,
+              "percent": 0.6842
+            }
+          ]
+        },
+        {
+          "name": "Glacial Cascade of the Fissure",
+          "count": 71,
+          "percent": 0.6211,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 1,
+              "percent": 0.1221
+            },
+            {
+              "name": "Reliquarian",
+              "count": 67,
+              "percent": 1.6953
+            }
+          ]
+        },
+        {
+          "name": "Kinetic Fusillade",
+          "count": 68,
+          "percent": 0.5949,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 23,
+              "percent": 2.8083
+            },
+            {
+              "name": "Reliquarian",
+              "count": 30,
+              "percent": 0.7591
+            },
+            {
+              "name": "Luminary",
+              "count": 13,
+              "percent": 0.1977
+            }
+          ]
+        },
+        {
+          "name": "Animate Guardian of Smiting",
+          "count": 65,
+          "percent": 0.5686,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 1,
+              "percent": 0.1221
+            },
+            {
+              "name": "Luminary",
+              "count": 66,
+              "percent": 1.0035
+            }
+          ]
+        },
+        {
+          "name": "Spark",
+          "count": 64,
+          "percent": 0.5599,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 1,
+              "percent": 0.1221
+            },
+            {
+              "name": "Reliquarian",
+              "count": 2,
+              "percent": 0.0506
+            },
+            {
+              "name": "Luminary",
+              "count": 58,
+              "percent": 0.8819
+            }
+          ]
+        },
+        {
+          "name": "Power Siphon",
+          "count": 64,
+          "percent": 0.5599,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 2,
+              "percent": 0.2442
+            },
+            {
+              "name": "Reliquarian",
+              "count": 60,
+              "percent": 1.5182
+            }
+          ]
+        },
+        {
+          "name": "Flicker Strike",
+          "count": 62,
+          "percent": 0.5424,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 9,
+              "percent": 1.0989
+            },
+            {
+              "name": "Reliquarian",
+              "count": 49,
+              "percent": 1.2399
+            }
+          ]
+        },
+        {
+          "name": "Arc",
+          "count": 49,
+          "percent": 0.4287,
+          "ascendancies": [
+            {
+              "name": "Reliquarian",
+              "count": 45,
+              "percent": 1.1387
+            },
+            {
+              "name": "Luminary",
+              "count": 2,
+              "percent": 0.0304
+            }
+          ]
+        },
+        {
+          "name": "Spellslinger",
+          "count": 45,
+          "percent": 0.3937,
+          "ascendancies": [
+            {
+              "name": "Reliquarian",
+              "count": 43,
+              "percent": 1.0881
+            }
+          ]
+        },
+        {
+          "name": "Static Strike of Gathering Lightning",
+          "count": 44,
+          "percent": 0.3849,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 1,
+              "percent": 0.1221
+            },
+            {
+              "name": "Reliquarian",
+              "count": 40,
+              "percent": 1.0121
+            },
+            {
+              "name": "Luminary",
+              "count": 2,
+              "percent": 0.0304
+            }
+          ]
+        },
+        {
+          "name": "Call the Pyre",
+          "count": 41,
+          "percent": 0.3587,
+          "ascendancies": [
+            {
+              "name": "Reliquarian",
+              "count": 10,
+              "percent": 0.253
+            },
+            {
+              "name": "Luminary",
+              "count": 31,
+              "percent": 0.4713
+            }
+          ]
+        },
+        {
+          "name": "Kinetic Blast",
+          "count": 40,
+          "percent": 0.3499,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 10,
+              "percent": 1.221
+            },
+            {
+              "name": "Reliquarian",
+              "count": 23,
+              "percent": 0.582
+            },
+            {
+              "name": "Luminary",
+              "count": 2,
+              "percent": 0.0304
+            }
+          ]
+        },
+        {
+          "name": "Doom Blast",
+          "count": 39,
+          "percent": 0.3412,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 4,
+              "percent": 0.4884
+            },
+            {
+              "name": "Reliquarian",
+              "count": 32,
+              "percent": 0.8097
+            },
+            {
+              "name": "Luminary",
+              "count": 1,
+              "percent": 0.0152
+            }
+          ]
+        },
+        {
+          "name": "Molten Strike",
+          "count": 38,
+          "percent": 0.3324,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 12,
+              "percent": 1.4652
+            },
+            {
+              "name": "Reliquarian",
+              "count": 6,
+              "percent": 0.1518
+            },
+            {
+              "name": "Luminary",
+              "count": 23,
+              "percent": 0.3497
+            }
+          ]
+        },
+        {
+          "name": "Animate Weapon of Ranged Arms",
+          "count": 37,
+          "percent": 0.3237,
+          "ascendancies": [
+            {
+              "name": "Reliquarian",
+              "count": 32,
+              "percent": 0.8097
+            },
+            {
+              "name": "Luminary",
+              "count": 2,
+              "percent": 0.0304
+            }
+          ]
+        },
+        {
+          "name": "Anger",
+          "count": 36,
+          "percent": 0.3149,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 13,
+              "percent": 1.5873
+            },
+            {
+              "name": "Luminary",
+              "count": 23,
+              "percent": 0.3497
+            }
+          ]
+        },
+        {
+          "name": "Wrath",
+          "count": 36,
+          "percent": 0.3149,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 25,
+              "percent": 3.0525
+            },
+            {
+              "name": "Luminary",
+              "count": 11,
+              "percent": 0.1672
+            }
+          ]
+        },
+        {
+          "name": "Sunder",
+          "count": 36,
+          "percent": 0.3149,
+          "ascendancies": [
+            {
+              "name": "Ascendant",
+              "count": 14,
+              "percent": 1.7094
+            },
+            {
+              "name": "Reliquarian",
+              "count": 16,
+              "percent": 0.4049
+            },
+            {
+              "name": "Luminary",
+              "count": 29,
+              "percent": 0.4409
+            }
+          ]
+        },
+        {
+          "name": "Blight of Contagion",
+          "count": 35,
+          "percent": 0.3062,
+          "ascendancies": [
+            {
+              "name": "Luminary",
+              "count": 33,
+              "percent": 0.5017
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
