@@ -1,0 +1,13 @@
+/* Written by Nocco when a colour scheme is picked. */
+:root {
+  --nocco-primary: #d6a34b;
+  --nocco-bg: #0b0a08;
+  --nocco-text: #f1e8d8;
+  --nocco-text-secondary: #9b8f7c;
+  --nocco-surface: #15120d;
+  --nocco-border: #332b1e;
+  --nocco-success: #8dca92;
+  --nocco-warning: #e0ab51;
+  --nocco-error: #d76c58;
+  --nocco-on-primary: #171006;
+}
